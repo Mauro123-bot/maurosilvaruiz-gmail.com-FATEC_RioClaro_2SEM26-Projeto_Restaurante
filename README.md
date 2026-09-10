@@ -5,7 +5,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do processo de avaliação da disciplina **Estrutura de Dados** do curso de **[Nome do Seu Curso]** na **[Nome da Instituição/Universidade]**.
+Este projeto foi desenvolvido como parte do processo de avaliação da disciplina **Estrutura de Dados** do curso de **Inteligencia Artificial** na **Fatec Rio Claro**.
 
 O objetivo principal é aplicar de forma prática os conceitos teóricos de armazenamento, organização e manipulação eficiente de dados através da implementação de algoritmos e estruturas fundamentais.
 
