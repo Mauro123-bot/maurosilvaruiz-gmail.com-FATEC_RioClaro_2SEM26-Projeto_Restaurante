@@ -15,6 +15,7 @@ O objetivo principal é aplicar os conceitos de Orientação a Objetos e estrutu
 
 ## 1.2 Arquitetura Geral do Sistema
 
+text
 [ SISTEMA DO RESTAURANTE ]
 |
 +--- Bloco 1: O CARDÁPIO E ESTOQUE (Herança, Encapsulamento e FIFO)
